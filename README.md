@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! This project showcases my work, skills, and background as an AI/ML Engineer passionate about building impactful machine learning solutions.
 
-🌐 **Live Site**: [Visit Portfolio](https://lovable.dev/projects/6a35b308-4026-481a-be8f-0ce1bf9afee9)
+🌐 **Live Site**: [Visit Portfolio](https://akishore-12.github.io/kishore-portfolio/)
 
 ---
 
